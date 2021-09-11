@@ -19,3 +19,5 @@
 - [First Party Isolation](https://addons.mozilla.org/firefox/addon/first-party-isolation/)
 - [I don't care about cookies](https://addons.mozilla.org/firefox/addon/i-dont-care-about-cookies/)
 - [User Agent Platform Spoofer](https://addons.mozilla.org/firefox/addon/user-agent-platform-spoofer/)
+- [NoScript](https://addons.mozilla.org/firefox/addon/noscript/)
+- [HTTPS Everywhere](https://addons.mozilla.org/firefox/addon/https-everywhere/)

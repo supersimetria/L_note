@@ -5,6 +5,7 @@
 - [SingleFile](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)
 - [Shoadan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap/related)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)
 - [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 - [Pinterest Save Button](https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic)
 - [Ghostery](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
@@ -13,12 +14,13 @@
 
 ## Firefox
 
+- [NoScript](https://addons.mozilla.org/firefox/addon/noscript/)
 - [Ghostery](https://addons.mozilla.org/firefox/addon/ghostery/)
 - [Shoadan](https://addons.mozilla.org/firefox/addon/shodan_io/)
-- [NoScript](https://addons.mozilla.org/firefox/addon/noscript/)
 - [SingleFile](https://addons.mozilla.org/firefox/addon/single-file/)
 - [CookieMaster](https://addons.mozilla.org/firefox/addon/cookiemaster/)
 - [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)
+- [HTTPS Everywhere](https://addons.mozilla.org/firefox/addon/https-everywhere/)
 - [HTTPS Everywhere](https://addons.mozilla.org/firefox/addon/https-everywhere/)
 - [First Party Isolation](https://addons.mozilla.org/firefox/addon/first-party-isolation/)
 - [I don't care about cookies](https://addons.mozilla.org/firefox/addon/i-dont-care-about-cookies/)

@@ -2,6 +2,7 @@
 
 ## Chromium
 
+- [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm/)
 - [SingleFile](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)
 - [Shoadan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap/related)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
@@ -17,8 +18,10 @@
 - [NoScript](https://addons.mozilla.org/firefox/addon/noscript/)
 - [Ghostery](https://addons.mozilla.org/firefox/addon/ghostery/)
 - [Shoadan](https://addons.mozilla.org/firefox/addon/shodan_io/)
+- [NoScript](https://addons.mozilla.org/firefox/addon/noscript/)
 - [SingleFile](https://addons.mozilla.org/firefox/addon/single-file/)
 - [CookieMaster](https://addons.mozilla.org/firefox/addon/cookiemaster/)
+- [Blockchain DNS](https://addons.mozilla.org/en-US/firefox/addon/b-dns/)
 - [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)
 - [HTTPS Everywhere](https://addons.mozilla.org/firefox/addon/https-everywhere/)
 - [HTTPS Everywhere](https://addons.mozilla.org/firefox/addon/https-everywhere/)

@@ -25,7 +25,6 @@
 - [Blockchain DNS](https://addons.mozilla.org/en-US/firefox/addon/b-dns/)
 - [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)
 - [HTTPS Everywhere](https://addons.mozilla.org/firefox/addon/https-everywhere/)
-- [HTTPS Everywhere](https://addons.mozilla.org/firefox/addon/https-everywhere/)
 - [First Party Isolation](https://addons.mozilla.org/firefox/addon/first-party-isolation/)
 - [I don't care about cookies](https://addons.mozilla.org/firefox/addon/i-dont-care-about-cookies/)
 - [User Agent Platform Spoofer](https://addons.mozilla.org/firefox/addon/user-agent-platform-spoofer/)
